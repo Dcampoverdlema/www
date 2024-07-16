@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Dennis Campoverde-Lema"
+  navbar:
+    background: "#0C2340"
+    foreground: "#9EA2A2"
+    left:
+      - href: index.qmd
+        text: Home
+      - Portfolio.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dennis-campoverde-lema-b740a1178/
+        target: _blank
+      - icon: github
+        href: https://github.com/Dcampoverdlema
+        target: _blank
+      - icon: file-pdf
+        href: assets/Dennis_resume.pdf
+        target: _blank
+
+format:
+  html:
+    theme: 
+      light: spacelab
+      dark: darkly
+    style: custom.scss
+    css: styles.css
+    toc: true
+
+
+

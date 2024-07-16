@@ -1,0 +1,22 @@
+---
+title: "Dennis Campoverde-Lema"
+about:
+  template: jolla
+  image: assets/headshot.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:dennyslema441@gmail.com
+      target: _bank
+    - icon: github
+      text: GitHub
+      href: https://github.com/Dcampoverdlema
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href:  https://www.linkedin.com/in/dennis-campoverde-lema-b740a1178/
+      target: _blank
+
+---
+
+Welcome to my website! I am a 4th Year undergraduate at University of Minnesota College of Science and Engineering, majoring in Data Science, and Industrial and Applied Mathematics. I am interested in health analytics and using R for graphing and analyzing data. 
