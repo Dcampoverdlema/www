@@ -2,7 +2,9 @@
   {
     "listing": "/Portfolio.html",
     "items": [
+      "/docs/project/capstone/capstone.html",
       "/project/capstone/capstone.html",
+      "/docs/project/eda/eda.html",
       "/project/eda/eda.html"
     ]
   }

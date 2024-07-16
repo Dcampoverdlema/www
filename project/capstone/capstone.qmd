@@ -2,10 +2,9 @@
 title: "Capstone"
 description: "Capstone project on Social and Demegraphics factors that could effect drug overdose and alcohol imparied driving deaths within the counties of the United States for SURE 2024 at CMU"
 date: July 1 2024
-resources: "."
 about: 
   template: solana
-  image: capstone.png
+  image: cover.png
   links: 
     - icon: github
       text: "GitHub"

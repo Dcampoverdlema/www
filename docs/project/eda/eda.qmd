@@ -5,7 +5,7 @@ date: July 1 2024
 resources: "."
 about: 
   template: solana
-  #image: 
+  image: cover.png
   links: 
     - icon: github
       text: "GitHub"
