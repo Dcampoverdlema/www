@@ -2,7 +2,6 @@
 title: "EDA"
 description: "This project we look at hosptial data that was provided by medicade/medicare insruance that wanted people to make better desicions on cost of care"
 date: July 1 2024
-resources: "."
 about: 
   template: solana
   image: cover.png

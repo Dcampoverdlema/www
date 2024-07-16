@@ -4,7 +4,8 @@ description: "Capstone project on Social and Demegraphics factors that could eff
 date: July 1 2024
 about: 
   template: solana
-  image: cover.png
+  image: cover.jpg
+  
   links: 
     - icon: github
       text: "GitHub"
