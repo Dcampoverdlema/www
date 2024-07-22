@@ -12,12 +12,6 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: slidesgohere
-    - icon: file
-      text: Poster
-      href: something goes here
-    - icon: pencil
-      text: Report
-      href: link here
+      href: edaslides.pdf
 ---
 
