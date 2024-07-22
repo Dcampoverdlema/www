@@ -11,7 +11,7 @@ about:
       href: https://github.com/jessgl16/SURE-2024-EDA-Project-1
       target: _blank
     - icon: laptop
-      text: Slides
+      text: "Slides"
       href: edaslides.pdf
 ---
 

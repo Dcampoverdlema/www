@@ -9,16 +9,16 @@ about:
   links: 
     - icon: github
       text: "GitHub"
-      href: https://dcampoverdlema.github.io/capstone-website/
+      href: https://github.com/Dcampoverdlema/Drug-overdose-and-alcohol-related-deaths
       target: _blank
     - icon: laptop
-      text: Slides
+      text: "Slides"
       href: cap.pdf
     - icon: file
-      text: Poster
+      text: "Poster"
       href: poster.pdf
     - icon: pencil
-      text: Report
+      text: "Report"
       href: https://dcampoverdlema.github.io/capstone-website/
 ---
 
