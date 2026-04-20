@@ -13,19 +13,16 @@ about:
       target: _blank
     - icon: laptop
       text: "Slides"
-      href: https://dcampoverdlema.github.io/www/project/capstone/cap.pdf
+      href: https://drive.google.com/file/d/1-aZFuZhGPnua0SP0bAESAaG_gyKNbplj/view?usp=sharing
       target: _blank
     - icon: file
       text: "Poster"
-      href: https://dcampoverdlema.github.io/www/project/capstone/poster.pdf
+      href: https://drive.google.com/file/d/1KUWTMvDsK-T01_9fl5IADSTJobNDmTa9/view?usp=sharing
       target: _blank
     - icon: pencil
       text: "Report"
       href: https://dcampoverdlema.github.io/capstone-website/
       target: _blank
-resources:
-  - cap.pdf
-  - poster.pdf
 ---
 
 Our project, "Understanding the Increase in Drug Overdose and Alcohol Driving Deaths," examines how social and demographic factors impact drug overdoses and alcohol-impaired driving deaths across U.S. counties. We analyzed data from the University of Wisconsin Population Health Institute, focusing on predictors like unemployment, median income, and social associations. Using various models including Ridge, Lasso, Elastic Net, Linear Regression, and Random Forest, we aimed to uncover key predictors and provide actionable insights.

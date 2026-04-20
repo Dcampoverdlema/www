@@ -12,10 +12,8 @@ about:
       target: _blank
     - icon: laptop
       text: "Slides"
-      href: https://dcampoverdlema.github.io/www/project/eda/edaslides.pdf
+      href: https://drive.google.com/file/d/1Wa82Vts5s7LLBdQiwA0IkJJfjmtxE4-1/view?usp=sharing
       target: _blank
-resources:
-  - project/eda/edaslides.pdf
 ---
 In our Exploratory Data Analysis (EDA) project using R, we analyzed Medicare and Medicaid data to gain insights into various aspects of hospital performance and healthcare quality. The dataset included information on different hospital types, such as government, public, and private-owned hospitals, along with mortality rates, Medicaid acceptance, costs, and quality of care metrics. One of our key objectives was to compare the mortality rates of different hospital types against the national average, which we visualized using stacked bar graphs. This analysis highlighted significant variations in mortality rates among different hospital types. Additionally, we identified hospitals that accept Medicaid and visualized their locations on maps, revealing the regional distribution and accessibility of these hospitals.
 
