@@ -13,11 +13,11 @@ about:
       target: _blank
     - icon: laptop
       text: "Slides"
-      href: cap.pdf
+      href: https://dcampoverdlema.github.io/www/project/capstone/cap.pdf
       target: _blank
     - icon: file
       text: "Poster"
-      href: poster.pdf
+      href: https://dcampoverdlema.github.io/www/project/capstone/poster.pdf
       target: _blank
     - icon: pencil
       text: "Report"
