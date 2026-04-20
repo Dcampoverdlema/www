@@ -1,6 +1,6 @@
 ---
 title: "Capstone"
-description: "Capstone project on Social and Demegraphics factors that could effect drug overdose and alcohol imparied driving deaths within the counties of the United States for SURE 2024 at CMU"
+description: "Capstone project on Social and Demographics factors that could affect drug overdose and alcohol impaired driving deaths within the counties of the United States for SURE 2024 at CMU"
 date: July 1 2024
 about: 
   template: solana
@@ -13,13 +13,21 @@ about:
       target: _blank
     - icon: laptop
       text: "Slides"
-      href: cap.pdf
+      href: project/capstone/cap.pdf
+      target: _blank
     - icon: file
       text: "Poster"
-      href: poster.pdf
+      href: project/capstone/poster.pdf
+      target: _blank
     - icon: pencil
       text: "Report"
       href: https://dcampoverdlema.github.io/capstone-website/
+      target: _blank
+resources:
+  - project/capstone/cap.pdf
+  - project/capstone/poster.pdf
 ---
 
-insert description down here 
+Our project, "Understanding the Increase in Drug Overdose and Alcohol Driving Deaths," examines how social and demographic factors impact drug overdoses and alcohol-impaired driving deaths across U.S. counties. We analyzed data from the University of Wisconsin Population Health Institute, focusing on predictors like unemployment, median income, and social associations. Using various models including Ridge, Lasso, Elastic Net, Linear Regression, and Random Forest, we aimed to uncover key predictors and provide actionable insights.
+
+For detailed analysis and findings, click the "Report" button.

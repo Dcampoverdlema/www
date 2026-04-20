@@ -1,7 +1,7 @@
 ---
 title: "Dennis Campoverde-Lema"
 about:
-  template: jolla
+  template: solana
   image: assets/headshot.jpg
   links: 
     - icon: envelope
@@ -18,5 +18,16 @@ about:
       target: _blank
 
 ---
+Hello, my name is Dennis Campoverde-Lema. I am a dedicated student at Metropolitan State University in Saint Paul, Minnesota, majoring in Data Science and Industrial and Applied Mathematics. My academic journey is driven by a passion for uncovering insights through data and applying mathematical principles to solve real-world problems.
 
-Welcome to my website! I am a 4th Year undergraduate at University of Minnesota College of Science and Engineering, majoring in Data Science, and Industrial and Applied Mathematics. I am interested in health analytics and using R for graphing and analyzing data. 
+This website is a testament to my learning journey and a platform to showcase the various projects and personal research I have undertaken. I have built this site using Quarto and it is hosted on GitHub, highlighting my commitment to leveraging modern tools and technologies in my work.
+
+# What You’ll Find Here
+ 
+ - **Projects:** A collection of my academic and personal projects, demonstrating my skills and growth in data science and applied mathematics.
+
+ - **Research:** Insights and findings from my personal research endeavors, reflecting my curiosity and dedication to advancing knowledge in my field.
+Feel free to explore and learn more about my work. If you wish to connect or learn more, my GitHub, email, and resume are conveniently linked in the navbar.
+
+Thank you for visiting my site!
+

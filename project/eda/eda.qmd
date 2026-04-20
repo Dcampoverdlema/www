@@ -1,6 +1,6 @@
 ---
-title: "EDA"
-description: "This project we look at hosptial data that was provided by medicade/medicare insruance that wanted people to make better desicions on cost of care"
+title: "EDA: Hospital Ratings"
+description: "Exploratory Data Analysis project on hospital ratings, mortality rates, procedure costs, and quality of care for SURE 2024 at CMU"
 date: July 1 2024
 about: 
   template: solana
@@ -12,6 +12,13 @@ about:
       target: _blank
     - icon: laptop
       text: "Slides"
-      href: edaslides.pdf
----
+      href: project/eda/edaslides.pdf
+      target: _blank
 
+resources:
+  - project/eda/edaslides.pdf
+---
+  - project/eda/edaslides.pdf
+In our Exploratory Data Analysis (EDA) project using R, we analyzed Medicare and Medicaid data to gain insights into various aspects of hospital performance and healthcare quality. The dataset included information on different hospital types, such as government, public, and private-owned hospitals, along with mortality rates, Medicaid acceptance, costs, and quality of care metrics. One of our key objectives was to compare the mortality rates of different hospital types against the national average, which we visualized using stacked bar graphs. This analysis highlighted significant variations in mortality rates among different hospital types. Additionally, we identified hospitals that accept Medicaid and visualized their locations on maps, revealing the regional distribution and accessibility of these hospitals.
+
+To further explore the relationship between cost and quality of care, we used box plots and violin plots to illustrate the distribution and density of cost data in relation to quality metrics. This analysis provided valuable insights into how cost impacts the quality of care, indicating potential areas for policy intervention. We also conducted a t-test to determine the statistical significance of the differences observed in costs and quality of care. Furthermore, we performed a clustering analysis to group hospitals based on various performance metrics, uncovering patterns and similarities among different hospital groups. For detailed analysis, visualizations, and code, please refer to our GitHub repository and slides by clicking the provided buttons.
