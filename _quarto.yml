@@ -1,6 +1,10 @@
 project:
   type: website
-  resources: assets
+  resources: 
+    - assets
+    - project/capstone/cap.pdf
+    - project/capstone/poster.pdf
+    - project/eda/edaslides.pdf
   output-dir: docs
 
 website:
