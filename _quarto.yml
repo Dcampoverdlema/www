@@ -6,7 +6,6 @@ project:
     - project/capstone/poster.pdf
     - project/eda/edaslides.pdf
   output-dir: docs
-
 website:
   title: "Dennis Campoverde-Lema"
   navbar:
@@ -24,9 +23,9 @@ website:
         href: https://github.com/Dcampoverdlema
         target: _blank
       - icon: file-pdf
+        text: "Resume"
         href: assets/Dennis_resume.pdf
         target: _blank
-
 format:
   html:
     theme: 
@@ -35,6 +34,3 @@ format:
     style: custom.scss
     css: styles.css
     toc: true
-
-
-
